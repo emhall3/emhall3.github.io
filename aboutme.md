@@ -11,4 +11,4 @@ My name is Elizabeth Barbee
 
 ### My Story
 
-I grew up in <a style='color #FE5C00'>Oklahoma</a>. My family and I moved to <a style='color #FFC627'>Arizona</a> a few years ago and enjoy spending as much time outdoors as possible.
+I grew up in Oklahoma. My family and I moved to Arizona a few years ago and enjoy spending as much time outdoors as possible.
